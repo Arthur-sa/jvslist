@@ -1,7 +1,6 @@
 package com.jvsproject.jvslist.controllers;
 
 import com.jvsproject.jvslist.dto.BookMinDTO;
-import com.jvsproject.jvslist.entities.Book;
 import com.jvsproject.jvslist.services.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
