@@ -1,6 +1,7 @@
 package com.jvsproject.jvslist.dto;
 
 import com.jvsproject.jvslist.entities.Book;
+import org.antlr.v4.runtime.misc.NotNull;
 
 public class BookMinDTO {
     private Long id;
